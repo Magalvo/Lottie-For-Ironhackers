@@ -49,9 +49,9 @@ Install the lottie-react dependency
     }
   };
 ```
-(This will set some rendering options for your animation that you can latter change as you desire);
+(This will set some rendering options for your animation that you can later change as you desire);
 
-- Add the Lottie component on your code and add the necessary props, preferebly inside a div so it doesn’t mess with the stylings . Make the necessary adjsutements to the styling:
+- Add the Lottie component on your code and add the necessary props, preferably inside a div so it doesn’t mess with the styles. Make the necessary adjustments to the styling:
 
 
 ```bash
